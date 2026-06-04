@@ -1,6 +1,6 @@
-# IBM Machine Learning Professional Certificate Portfolio
+# Machine Learning Certification Portfolio
 
-Course projects, revised notebooks, and applied machine learning documentation from the IBM Machine Learning Professional Certificate on Coursera.
+A professional portfolio of revised projects and technical documentation completed during the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) program on Coursera.
 
 [![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-4285F4)](#)
 [![Python](https://img.shields.io/badge/Language-Python-34A853)](#)
@@ -9,13 +9,14 @@ Course projects, revised notebooks, and applied machine learning documentation f
 
 ## Introduction
 
-This repository serves as a professional technical portfolio documenting the completion and extension of the IBM Machine Learning Professional Certificate. It tracks a rigorous progression through the machine learning pipeline, from foundational exploratory data analysis to advanced deep learning and recommendation systems.
+This repository is a professional technical portfolio documenting my completion of the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) on Coursera. It tracks my progression through the machine learning pipeline, from foundational exploratory data analysis to advanced deep learning and recommendation systems.
 
-While based on the Coursera curriculum, these materials have been substantially revised to function as a standalone technical reference. Key improvements include:
+As I worked through the projects, I substantially enhanced the original materials with clearer documentation, deeper mathematical explanations, refined workflows, and additional technical insights. The goal was to transform the course assignments into a more comprehensive reference for both learning and practical implementation. The revised projects included in this repository incorporate the following improvements:
 
-- **Enhanced Documentation**: Expanded explanations of model architectures and implementation logic.
-- **Mathematical Intuition**: Integration of the underlying mathematical context and model assumptions.
-- **Workflow Refinement**: Optimized end-to-end pipelines, ensuring a professional transition from data ingestion to model evaluation.
+- **Enhanced Documentation**: Expanded explanations of algorithms, model architectures and implementation logic.
+- **Mathematical Foundations**: Added intuitive explanations of key mathematical concepts, assumptions, and formulas underlying each method.
+- **Workflow Refinement**: Improved project organization and end-to-end workflows.
+- **Technical Insights**: Included additional discussions, visualizations, and practical considerations that extend beyond the original course materials.
 
 ## Technical Expertise
 
@@ -40,7 +41,7 @@ The projects within this portfolio demonstrate proficiency across the following 
 
 ## Course 1: Exploratory Data Analysis for Machine Learning
 
-This course focuses on the early stages of the machine learning pipeline: cleaning raw data, exploring feature distributions, engineering useful predictors, and applying statistical reasoning before model development.
+Practical application of the foundational stages of the machine learning pipeline, including raw data cleaning, exploratory data analysis (EDA), feature engineering, and the application of statistical hypothesis testing to validate data assumptions.
 
 | Notebook | Main Topic |
 | --- | --- |
@@ -52,7 +53,7 @@ This course focuses on the early stages of the machine learning pipeline: cleani
 
 ## Course 2: Supervised Machine Learning: Regression
 
-This course develops regression modeling skills, including linear models, polynomial feature expansion, cross-validation, and regularization methods for controlling model complexity.
+Implementation of regression analysis using linear and polynomial models, with a focus on cross-validation and regularization techniques (Ridge, Lasso) to prevent overfitting and enhance model generalization.
 
 | Notebook | Main Topic |
 | --- | --- |
@@ -64,7 +65,7 @@ This course develops regression modeling skills, including linear models, polyno
 
 ## Course 3: Supervised Machine Learning: Classification
 
-This course covers core classification algorithms and ensemble methods, with attention to model comparison, interpretability, and imbalanced data handling.
+Application of various classification algorithms and ensemble methods, emphasizing model interpretability, performance comparison, and strategies for handling imbalanced datasets.
 
 | Notebook | Main Topic |
 | --- | --- |
@@ -83,7 +84,7 @@ This course covers core classification algorithms and ensemble methods, with att
 
 ## Course 4: Unsupervised Machine Learning
 
-This course explores how to discover structure in unlabeled data through clustering, similarity measurement, dimensionality reduction, matrix decomposition, and text feature extraction.
+Implementation of unsupervised learning techniques for pattern extraction from unlabeled data, including clustering (K-Means, DBSCAN), dimensionality reduction (PCA, SVD), and text feature extraction (TF-IDF).
 
 | Notebook | Main Topic |
 | --- | --- |
@@ -103,7 +104,7 @@ This course explores how to discover structure in unlabeled data through cluster
 
 ## Course 5: Deep Learning and Reinforcement Learning
 
-This course introduces modern neural network workflows, including Keras model development, image modeling, sequence modeling, representation learning, generative models, and GPU-based training considerations.
+Development of deep learning architectures using Keras and TensorFlow, covering neural network design, CNNs for image processing, RNNs/LSTMs for sequential data, and generative models such as Autoencoders and GANs.
 
 | Notebook | Main Topic |
 | --- | --- |
@@ -133,9 +134,9 @@ This course introduces modern neural network workflows, including Keras model de
 
 ## Course 6: Machine Learning Capstone
 
-The capstone applies the full machine learning workflow to recommendation systems, combining exploratory analysis, feature engineering, content-based filtering, collaborative filtering, embeddings, and model evaluation.
+Capstone project synthesizing the full machine learning pipeline to develop a recommendation system, integrating content-based and collaborative filtering, embeddings, and comprehensive model evaluation metrics.
 
-| File | Main Topic |
+| Notebook | Main Topic |
 | --- | --- |
 | [6.1.1_Recommender_System.ipynb](Course_6_Machine_Learning_Capstone/6.1.1_Recommender_System.ipynb) | Recommender system overview |
 | [6.2.1_EDA_Lab.ipynb](Course_6_Machine_Learning_Capstone/6.2.1_EDA_Lab.ipynb) | Exploratory data analysis |
