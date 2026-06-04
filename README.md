@@ -200,6 +200,8 @@ This certificate verifies my completion of the IBM Machine Learning Specializati
 
 ![IBM Machine Learning Certificate](assets/IBM_Machine_Learning_Certificate.png)
 
+[View IBM Machine Learning Certificate](assets/IBM_Machine_Learning_Certificate.pdf)
+
 ## Notes
 
 This repository is intended as a learning portfolio and technical reference. Notebook outputs, package versions, datasets, and execution results may vary depending on the runtime environment.
