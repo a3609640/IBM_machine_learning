@@ -194,6 +194,12 @@ Some notebooks may require additional packages or runtime configuration dependin
 
 The original lab and project prompts were provided through the IBM Machine Learning Professional Certificate on Coursera. This repository contains my completed, revised, and expanded versions of those materials. The documentation, workflow notes, method explanations, mathematical context, and repository-level organization reflect my own independent work and learning process.
 
+## Certificate
+
+This certificate verifies my completion of the IBM Machine Learning Specialization.
+
+![IBM Machine Learning Certificate](assets/IBM_Machine_Learning_Certificate.png)
+
 ## Notes
 
 This repository is intended as a learning portfolio and technical reference. Notebook outputs, package versions, datasets, and execution results may vary depending on the runtime environment.
